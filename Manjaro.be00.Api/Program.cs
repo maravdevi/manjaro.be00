@@ -10,10 +10,11 @@ var isCloudRun = !string.IsNullOrEmpty(Environment.GetEnvironmentVariable("K_SER
 
 if (isCloudRun)
 {
-    var port = Environment.GetEnvironmentVariable("PORT");
-
-    if (!string.IsNullOrEmpty(port))
-        builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
+    var portStr = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+    
+    if (!int.TryParse(portStr, out var port)) port = 8080;
+    
+    builder.WebHost.ConfigureKestrel(o => o.ListenAnyIP(port));
 }
 
 builder.Services.Configure<ForwardedHeadersOptions>(options =>
