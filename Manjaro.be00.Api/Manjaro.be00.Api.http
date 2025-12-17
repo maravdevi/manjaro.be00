@@ -1,0 +1,6 @@
+@Manjaro.be00.Api_HostAddress = http://localhost:5253
+
+GET {{Manjaro.be00.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
