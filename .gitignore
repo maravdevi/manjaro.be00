@@ -1,0 +1,26 @@
+# Directorios de compilación y temporales
+bin/
+obj/
+
+# Archivos de Visual Studio
+*.user
+*.suo
+*.sln.user
+
+# Archivos de secretos y configuración local
+*.secrets
+appsettings.Development.json
+
+# Dependencias (si usas npm/yarn, aunque menos común en .NET puro)
+node_modules/
+
+# Archivos de paquetes NuGet
+packages/
+
+# Archivos de logs y temporales de desarrollo
+*.log
+*.tmp
+
+# Archivos de VS Code (si aplica)
+.vscode/
+.vs/

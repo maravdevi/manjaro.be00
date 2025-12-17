@@ -357,11 +357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\broadmark\\manjaro01\\back\\manjaro.be00\\Manjaro.be00.Api\\Manjaro.be00.Api.csproj",
+      "projectUniqueName": "I:\\broadmark\\manjaro.be00\\Manjaro.be00.Api\\Manjaro.be00.Api.csproj",
       "projectName": "Manjaro.be00.Api",
-      "projectPath": "I:\\broadmark\\manjaro01\\back\\manjaro.be00\\Manjaro.be00.Api\\Manjaro.be00.Api.csproj",
+      "projectPath": "I:\\broadmark\\manjaro.be00\\Manjaro.be00.Api\\Manjaro.be00.Api.csproj",
       "packagesPath": "C:\\Users\\Frodo\\.nuget\\packages\\",
-      "outputPath": "I:\\broadmark\\manjaro01\\back\\manjaro.be00\\Manjaro.be00.Api\\obj\\",
+      "outputPath": "I:\\broadmark\\manjaro.be00\\Manjaro.be00.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
