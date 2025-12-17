@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Manjaro.be00.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c985e9689c68ee5cb00b328d2376610a5c136e8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Manjaro.be00.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Manjaro.be00.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

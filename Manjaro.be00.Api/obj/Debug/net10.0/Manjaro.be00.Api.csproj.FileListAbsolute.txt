@@ -36,3 +36,4 @@ I:\broadmark\manjaro.be00\Manjaro.be00.Api\obj\Debug\net10.0\Manjaro.be00.Api.xm
 I:\broadmark\manjaro.be00\Manjaro.be00.Api\obj\Debug\net10.0\Manjaro.be00.Api.pdb
 I:\broadmark\manjaro.be00\Manjaro.be00.Api\obj\Debug\net10.0\Manjaro.be00.Api.genruntimeconfig.cache
 I:\broadmark\manjaro.be00\Manjaro.be00.Api\obj\Debug\net10.0\ref\Manjaro.be00.Api.dll
+I:\broadmark\manjaro.be00\Manjaro.be00.Api\obj\Debug\net10.0\Manjaro.be00.Api.sourcelink.json
